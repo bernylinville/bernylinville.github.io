@@ -116,3 +116,6 @@ client-output-buffer-limit pubsub 32mb 8mb 60
 2. **配置文件**：根据上述示例创建 `redis-7001.conf` 和 `redis-7002.conf` 文件，并根据实际情况调整配置。
 3. **启动集群**：在每台服务器上运行 `docker-compose up -d` 启动 Redis 节点。
 4. **配置集群**：使用 `docker exec -it redis-7001 redis-cli --cluster create 192.168.10.8:7001 192.168.10.8:7002 ip:port --cluster-replicas 1` 配置集群。
+
+参考连接:
+- [一键部署三主三从的docker-redis集群](https://mp.weixin.qq.com/s/LQnaHQ1w40E7VEhyDIYrrg)
