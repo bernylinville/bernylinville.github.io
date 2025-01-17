@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://bernylinville.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://bernylinville.github.io</link></image><lastBuildDate>Fri, 17 Jan 2025 08:41:28 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>在 WSL2 上运行 Vagrant</title><link>https://bernylinville.github.io/post/zai-%20WSL2%20-shang-yun-xing-%20Vagrant.html</link><description>---
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://bernylinville.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://bernylinville.github.io</link></image><lastBuildDate>Fri, 17 Jan 2025 08:42:53 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Run Vagrant on Wsl2</title><link>https://bernylinville.github.io/post/Run%20Vagrant%20on%20Wsl2.html</link><description>---
 date: 2021-11-14T23:52:32+08:00
 title: '在 WSL2 上运行 Vagrant'
 description: 'Run Vagrant on Wsl2'
@@ -10,4 +10,4 @@ externalLink: ''
 series: []
 ---
 
-这篇文章记录了如何在 WSL 2 上安装使用 Vagrant，并且使用 VirtualBox 做为 provider。</description><guid isPermaLink="true">https://bernylinville.github.io/post/zai-%20WSL2%20-shang-yun-xing-%20Vagrant.html</guid><pubDate>Fri, 17 Jan 2025 08:41:01 +0000</pubDate></item></channel></rss>
+这篇文章记录了如何在 WSL 2 上安装使用 Vagrant，并且使用 VirtualBox 做为 provider。</description><guid isPermaLink="true">https://bernylinville.github.io/post/Run%20Vagrant%20on%20Wsl2.html</guid><pubDate>Fri, 17 Jan 2025 08:41:01 +0000</pubDate></item></channel></rss>
